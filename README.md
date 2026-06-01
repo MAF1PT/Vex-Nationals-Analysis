@@ -20,5 +20,5 @@ Additionally, team performance is evaluated through:
 | **DPR** | Defensive Power Rating | Estimated contribution to opposing alliance scores. Lower is better. |
 | **CCWM** | Calculated Contribution to Win Margin | OPR − DPR. Overall contribution to win margin. |
 
-##Research Question
+## Research Question
 **"How well do WP, AP, and SP actually explain qualification rankings, and is the current tiebreaker system statistically justified?"**
