@@ -21,7 +21,7 @@ Additionally, team performance is evaluated through:
 | **CCWM** | Calculated Contribution to Win Margin | OPR − DPR. Overall contribution to win margin. |
 
 ## Research Question
-**"How well do WP, AP, and SP actually explain qualification rankings, and is the current tiebreaker system statistically justified?"**
+**"Do AP and SP meaningfully improve qualification rankings beyond WP, and is their current order as tiebreakers statistically justified?"**
 
 ## Final Conclusion
 WP is doing almost all of the work. With r = -0.9176 and R² = 0.8419, Win Points alone explains roughly 84% of the variance in final ranking. This confirms that WP is, by a wide margin, the dominant factor in qualification ranking, which makes sense, since it directly reflects match outcomes. But the fact that R² isn't 1.0 also confirms that ties exist and a tiebreaker system is genuinely necessary.
