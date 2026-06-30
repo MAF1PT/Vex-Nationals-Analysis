@@ -20,17 +20,17 @@ Version 2: **"Do AP and SP meaningfully improve qualification rankings beyond WP
 ## SQ1
 "How strongly does Win Points (WP) alone explain qualification ranking?"
 
-Methods used: Pearson Correlation, Linear Regression
+**Methods used:** Pearson Correlation, Linear Regression
 
 ## SQ2
 "Among teams tied on WP, does AP effectively differentiate qualification rankings?"
 
-Methods used: WP Tie Group Identification, Pearson Correlation (within WP ties), Rank Accuracy Analysis, One-Way ANOVA
+**Methods used:** WP Tie Group Identification, Pearson Correlation (within WP ties), Rank Accuracy Analysis, One-Way ANOVA
 
 ## SQ3
 "Among teams tied on both WP and AP, does SP effectively differentiate qualification rankings?"
 
-Methods used: WP+AP Tie Group Identification , Pearson Correlation (within WP+AP ties), Rank Accuracy Analysis, One-Way ANOVA 
+**Methods used:** WP+AP Tie Group Identification , Pearson Correlation (within WP+AP ties), Rank Accuracy Analysis, One-Way ANOVA 
 
 ## Final Conclusion
 WP is doing almost all of the work. With r = -0.9176 and R² = 0.8419, Win Points alone explains roughly 84% of the variance in final ranking. This confirms that WP is, by a wide margin, the dominant factor in qualification ranking, which makes sense, since it directly reflects match outcomes. But the fact that R² isn't 1.0 also confirms that ties exist and a tiebreaker system is genuinely necessary.
