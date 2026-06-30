@@ -13,21 +13,21 @@ In VEX Robotics competitions, qualification rankings are determined by three met
 | **SP** | Strength of Schedule Points | Sum of the losing alliance's scores in matches played. 2nd tiebreaker (Third basis of ranking Teams). |
 
 ## Research Question
-Version 1: **"How well do WP, AP, and SP actually explain qualification rankings, and is the current tiebreaker system statistically justified?"**
+**Version 1:** **"How well do WP, AP, and SP actually explain qualification rankings, and is the current tiebreaker system statistically justified?"**
 
-Version 2: **"Do AP and SP meaningfully improve qualification rankings beyond WP, and is their current order as tiebreakers statistically justified?"**
+**Version 2:** **"Do AP and SP meaningfully improve qualification rankings beyond WP, and is their current order as tiebreakers statistically justified?"**
 
-## SQ1
+## Sub Question 1
 "How strongly does Win Points (WP) alone explain qualification ranking?"
 
 **Methods used:** Pearson Correlation, Linear Regression
 
-## SQ2
+## Sub Question 2
 "Among teams tied on WP, does AP effectively differentiate qualification rankings?"
 
 **Methods used:** WP Tie Group Identification, Pearson Correlation (within WP ties), Rank Accuracy Analysis, One-Way ANOVA
 
-## SQ3
+## Sub Question 3
 "Among teams tied on both WP and AP, does SP effectively differentiate qualification rankings?"
 
 **Methods used:** WP+AP Tie Group Identification , Pearson Correlation (within WP+AP ties), Rank Accuracy Analysis, One-Way ANOVA 
